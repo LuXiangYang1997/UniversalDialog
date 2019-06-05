@@ -140,7 +140,7 @@ public class UniversalDialog extends Dialog implements View.OnClickListener {
         WindowManager windowManager = ((Activity) mContext).getWindowManager();
         Display defaultDisplay = windowManager.getDefaultDisplay();
         WindowManager.LayoutParams layoutParams = getWindow().getAttributes();
-        layoutParams.width = defaultDisplay.getWidth() * 4 / 5;// 设置dialog宽度为屏幕的4/5
+        layoutParams.width = defaultDisplay.getWidth();
         getWindow().setAttributes(layoutParams);
 
         for (int itemId : mListenerItemIds) {
