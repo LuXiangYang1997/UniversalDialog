@@ -1,6 +1,8 @@
 # UniversalDialog
 一个通用的Dialog，可以满足基本需求
-## 依赖：   implementation 'com.github.LuXiangYang1997:UniversalDialog:v1.0.1'
+
+[![](https://www.jitpack.io/v/LuXiangYang1997/UniversalDialog.svg)](https://www.jitpack.io/#LuXiangYang1997/UniversalDialog)
+## 依赖：implementation 'com.github.LuXiangYang1997:UniversalDialog:v1.0.1'
 ![image](https://github.com/LuXiangYang1997/UniversalDialog/blob/master/images/WechatIMG2.png)
 ![image](https://github.com/LuXiangYang1997/UniversalDialog/blob/master/images/WechatIMG3.png)
 ![image](https://github.com/LuXiangYang1997/UniversalDialog/blob/master/images/WechatIMG4.png)
