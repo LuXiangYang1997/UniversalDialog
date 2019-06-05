@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UniversalDialog</string>
+
+    <string name="str_universal_dialog_one">两个按钮，一个提示文案</string>
+    <string name="str_universal_dialog_second">一个按钮，一个提示文案</string>
+    <string name="str_universal_dialog_three">一个图片和文案，两个按钮</string>
+    <string name="str_universal_dialog_four">一个图片和文案，一个按钮</string>
+
+</resources>
